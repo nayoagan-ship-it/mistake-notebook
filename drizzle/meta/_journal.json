@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791553889535,
+      "tag": "0000_simple_elektra",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791555256229,
+      "tag": "0001_striped_fat_cobra",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1791556037709,
+      "tag": "0002_graceful_nocturne",
+      "breakpoints": true
+    }
+  ]
+}
